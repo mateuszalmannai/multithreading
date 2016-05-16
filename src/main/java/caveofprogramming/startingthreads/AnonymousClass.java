@@ -1,4 +1,4 @@
-package startingthreads;
+package caveofprogramming.startingthreads;
 
 public class AnonymousClass {
   public static void main(String[] args) {

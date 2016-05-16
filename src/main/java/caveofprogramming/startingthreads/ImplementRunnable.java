@@ -1,4 +1,4 @@
-package startingthreads;
+package caveofprogramming.startingthreads;
 
 class AnotherRunner implements Runnable {
 
